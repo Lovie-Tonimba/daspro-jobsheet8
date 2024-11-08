@@ -6,7 +6,6 @@ public class Triangle10 {
         int N = sc.nextInt();
         int i = 1;
         while (i <= N) {
-            System.out.print(" ");
             int j = 0;
             while (j < i) { 
                 System.out.print("*");
