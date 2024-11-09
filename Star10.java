@@ -7,7 +7,7 @@ public class Star10 {
         System.out.print("Enter value N = ");
         int N = sc.nextInt();
 
-        for (int i = 1; i <= N; i--) {
+        for (int i = 1; i <= N; i++) {
             System.out.print("*");
         }
     }
